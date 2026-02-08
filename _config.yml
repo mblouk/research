@@ -1,15 +1,15 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Research
+url: "https://github.com/mblouk"
+baseurl: "/research"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+# ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/mblouk"
+# footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
