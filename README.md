@@ -5,7 +5,7 @@ This resarch web page is based on a clean, single column, monospace [resume temp
 
 ### Customization
 
-* You can edit the `.md` files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
+* You can edit the `.md` files. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
 
 * To edit the `links` mentioned on the navigation bar, you can edit `_config.yml`. For example:
 
