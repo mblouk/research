@@ -3,7 +3,6 @@ layout: default
 ---
 
 # Matthieu Bellec
-French, 42 years old, married, 3 children
 
 ---
 
