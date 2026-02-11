@@ -2,22 +2,24 @@
 layout: default
 ---
 
+More details coming soon...
+
 ## Fundings
 
-| Period       | Project/Acronym                     | Funding Type              | Budget (k€) | Role                |
-|--------------|-------------------------------------|---------------------------|-------------|---------------------|
-| 2025–2029    | FUNCTIGLASS                          | Doctoral Network          | 300         | Partner             |
-| 2024–2028    | VISUAL                              | Horizon Europe (RIA)      | 150         | WP leader           |
-| 2023–2027    | FESTNOS                             | ANR                       | 400         | Partner             |
-| 2023–2027    | COP3D                               | ANR                       | 200         | Partner             |
-| 2023–2026    | PARADIS                             | ANR/AID ASTRID            | 270         | PI                  |
-| 2023–2026    | ALFO                                | Région Sud                | 150         | Partner             |
-| 2021–2024    | TOPOFIBER                           | Université Côte d'Azur   | 120         | PI                  |
-| 2018–2022    | PhoQuS                              | Horizon Europe (FET)      | 250         | WP leader           |
-| 2015–2018    | MATISSE                             | Région Sud                | 50          | PI                  |
+| Period       | Project/Acronym                     | Funding Type              | 
+|--------------|-------------------------------------|---------------------------|
+| 2025–2029    | FUNCTIGLASS                          | Doctoral Network          | 
+| 2024–2028    | VISUAL                              | Horizon Europe (RIA)      |
+| 2023–2027    | FESTNOS                             | ANR                       |
+| 2023–2027    | COP3D                               | ANR                       | 
+| 2023–2026    | PARADIS                             | ANR/AID ASTRID            | 
+| 2023–2026    | ALFO                                | Région Sud                | 
+| 2021–2024    | TOPOFIBER                           | Université Côte d'Azur   | 
+| 2018–2022    | PhoQuS                              | Horizon Europe (FET)      | 
+| 2015–2018    | MATISSE                             | Région Sud                | 
 
 ---
-
+<!-- 
 ### PhD Students
 - **2025.11–2029.10**: Loraien Raju Kalathil, *Fabrication of active complex photonic circuits in doped tellurite glasses*, supervisor, joint program with Tampere University, Finland
 - **2025.11–2028.10**: Peter Azure, *Inverse design of laser-inscribed scattering nanostructures in optical fibers*, supervisor, joint program with Hannover University, Germany
@@ -33,4 +35,4 @@ layout: default
 - **2023.08–2025.08**: Louis Bellando, *Integrated quantum sensor for chemical species detection*, supervisor
 - **2021.12–2023.12**: Angela Haykal, *Quantum metrology based on hybrid integrated photonic circuits*, co-supervisor
 - **2019.01–2020.10**: Aurélien Eloy, *Superfluidity and turbulence in a fluid of light*, supervisor
-
+ -->
