@@ -1,5 +1,6 @@
 _site
 Gemfile.lock
+temp.md
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
