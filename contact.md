@@ -3,24 +3,14 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [matthieu.bellec@univ-cotedazur.fr](mailto:matthieu.bellec@univ-cotedazur.fr)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+33 4 89 15 28 16](tel:+33 4 89 15 28 16)
 
----
+* Mailing Address:
 
-## Mailing Address
+> Institut de Physique de Nice (INPHYNI)<br/>
+> Université Côte d'Azur, CNRS, UMR 7010<br/>
+> 17 rue Julien Lauprêtre, 06200 Nice, France
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
 
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)

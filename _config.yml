@@ -1,15 +1,15 @@
 title: Research webpage
-url: "https://github.com/mblouk"
+url: "https://mblouk.github.io"
 baseurl: "/research"
 
 markdown: kramdown
-# ins_logo: "./bits-logo.png"
+# ins_logo: "./logo-inphyni.png"
 
-tracking_id: #
+# tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/mblouk"
-# footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/mblouk/research"
+footer_text: "More info on page design"
 
 sass:
     style: compressed
@@ -17,8 +17,10 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/research/"
+ - name: "Projects"
+   link: "projects"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "resume"
  - name: "Contact"
    link: "contact"
