@@ -17,7 +17,7 @@ My research lies at the intersection of **laser fabrication of novel complex pho
 
 I develop new types of complex media with tailored, multifunctional photonic properties that can be precisely engineered (1) to address current challenges in optical transport within complex environments, particularly when propagation occurs in *non-trivial regimes*, such as disordered systems, nonlinear responses, or magneto-optical effects (2). Beyond that, the technological advancements arising from this work also create new opportunities for innovation in integrated photonics, particularly in the fields of optical and quantum sensing, as well as astronomical instrumentation (3).
 
-Please read the [Projects](projects/) section for more information.
+Please read the [Projects](projects) section for more information.
 
 ---
 ## Keywords
